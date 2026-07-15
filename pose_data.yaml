@@ -1,0 +1,9 @@
+path: /home/oriado/Files/meter_project/dataset_pose
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ["meter_display"]
+
+kpt_shape: [4, 3]

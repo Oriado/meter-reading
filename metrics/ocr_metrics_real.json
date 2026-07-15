@@ -1,0 +1,16 @@
+{
+  "finetuned": {
+    "exact_match_accuracy": 0.0,
+    "character_accuracy": 0.2476,
+    "cer": 0.7524
+  },
+  "baseline_no_finetune": {
+    "exact_match_accuracy": 0.0,
+    "character_accuracy": 0.0,
+    "cer": 1.0286
+  },
+  "val_size": 15,
+  "train_size": 72,
+  "epochs": 20,
+  "lr": 5e-05
+}

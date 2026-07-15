@@ -1,0 +1,8 @@
+{
+  "final_val_accuracy": 0.996,
+  "best_val_accuracy": 0.998,
+  "epochs": 30,
+  "architecture": "CRNN (CNN + BiGRU + CTC)",
+  "train_samples": 5000,
+  "val_samples": 1000
+}
